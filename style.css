@@ -1,4 +1,10 @@
 img{max-width: 100%;}
 
 body{text-align: center;
-      font-size: 50px;}
+      padding-left: 15%;
+      padding-right: 15;
+     }
+
+h1{font-size: 70px;}
+p{font-size: 50px;
+
